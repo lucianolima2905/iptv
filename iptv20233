@@ -1,3 +1,4 @@
+#EXTM3U
 #EXTINF:-1 tvg-name="O Sequestro do Ônibus 657 (2015)" tvg-logo="https://www.themoviedb.org/t/p/w300_and_h450_bestv2/88MF5TO8GdpIqRJqTH4N9hnaVtY.jpg" group-title="FILMES DE AÇÃO",O Sequestro do Ônibus 657 (2015)
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/episode/62fe620342b796001bc1511e/master.m3u8?deviceType=samsung-
 #EXTINF:-1 tvg-name="Condução Perigosa (2014)" tvg-logo="https://www.themoviedb.org/t/p/w300_and_h450_bestv2/96zAP3LAKFy4nMBuvARqewzSNke.jpg" group-title="FILMES DE AÇÃO",Condução Perigosa (2014)
@@ -10,15 +11,3 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/episode/63232d3948fe5f0013f657
 episode/62f56b20946347001beed790
 #EXTINF:-1 tvg-name="Redenção (2011)" tvg-logo="https://www.themoviedb.org/t/p/w300_and_h450_bestv2/u9QD9ddSVeYJABMSqBwfqe0NmsJ.jpg" group-title="FILMES DE AÇÃO",Redenção (2011)
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/episode/5fbe59a70dddaf0013b5c425/master.m3u8?deviceType=samsung-
-#EXTINF:-1 tvg-name="Caçada ao Presidente (2014)" tvg-logo="https://www.themoviedb.org/t/p/w300_and_h450_bestv2/67CBNSVu4HCr3gDijYDS8xPLmoO.jpg" group-title="FILMES DE AÇÃO",Caçada ao Presidente (2014)
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/episode/60a41922d9b0ce0014e6c2e3/master.m3u8?deviceType=samsung-
-#EXTINF:-1 tvg-name="Batalha dos Impérios (2015)" tvg-logo="https://www.themoviedb.org/t/p/w300_and_h450_bestv2/jehJ5TlgBqfP6DkWqOjcCkMYxgd.jpg" group-title="FILMES DE AÇÃO",Batalha dos Impérios (2015)
-episode/5f86fe603bd42e001ac6561a
-#EXTINF:-1 tvg-name="November Man: Um Espião Nunca Morre (2014)" tvg-logo="https://www.themoviedb.org/t/p/w300_and_h450_bestv2/rM9yMUntZMAeXLDCmPrDGGBYdYR.jpg" group-title="FILMES DE AÇÃO",November Man: Um Espião Nunca Morre (2014)
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/episode/60c7b84928f1d30013ec5ca4/master.m3u8?deviceType=samsung-
-#EXTINF:-1 tvg-name="O Franco-Atirador (2015)" tvg-logo="https://www.themoviedb.org/t/p/w300_and_h450_bestv2/iflWidOc9ARNLQKLnMmWQrXimLd.jpg" group-title="FILMES DE AÇÃO",O Franco-Atirador (2015)
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/episode/60db8f3da9c1a500138f7875/master.m3u8?deviceType=samsung-
-#EXTINF:-1 tvg-name="Um Dia para Viver (2017)" tvg-logo="https://www.themoviedb.org/t/p/w300_and_h450_bestv2/yyr8u7wQU2k7HpJvBeGmZsJkZTR.jpg" group-title="FILMES DE AÇÃO",Um Dia para Viver (2017)
-episode/60c7b84f28f1d30013ec5d1c
-#EXTINF:-1 tvg-name="Expresso do Amanhã (2013)" tvg-logo="https://www.themoviedb.org/t/p/w300_and_h450_bestv2/9rtJNrpDuxHJiRormrY5S3GXwEu.jpg" group-title="FILMES DE AÇÃO",Expresso do Amanhã (2013)
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/episode/5f86fe7e3bd42e001ac658ea/master.m3u8?deviceType=samsung-
